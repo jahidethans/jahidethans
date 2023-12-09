@@ -21,3 +21,4 @@
 Let's code the future together! 🚀
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jahidethans&theme=dark&hide_border=true)](https://git.io/streak-stats)
+https://api.githubtrends.io/user/svg/jahidethans/repos?time_range=one_year&theme=dark
