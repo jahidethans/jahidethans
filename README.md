@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I never skip an error handling**
 
-- 💻 My technical expertise includes:
+   <h1> 💻 My technical expertise includes:</h1>
 - Frontend: React, HTML, CSS, JavaScript (ES6+)
 - Backend: Node.js, Express.js, MongoDB, RESTful APIs
 - Database: MongoDB, Mongoose
