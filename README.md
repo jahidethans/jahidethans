@@ -16,6 +16,13 @@
 
 - ⚡ Fun fact **I never skip an error handling**
 
+- 💻 My technical expertise includes:
+- Frontend: React, HTML, CSS, JavaScript (ES6+)
+- Backend: Node.js, Express.js, MongoDB, RESTful APIs
+- Database: MongoDB, Mongoose
+- Tools: Git
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jahid-hasan-99a89b1a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jahid-hasan-99a89b1a3/" height="30" width="40" /></a>
